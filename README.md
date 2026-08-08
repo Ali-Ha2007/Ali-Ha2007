@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there! 👋
+I'm a student based in Sweden, currently interning at **NASA.**
 
-<!--
-**Ali-Ha2007/Ali-Ha2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly write Python, but I like poking at new languages whenever a project gives me an excuse.
 
-Here are some ideas to get you started:
+Right now I'm splitting my time between coursework and internship work, so my repos are a mix of school projects, experiments, and whatever I'm learning that week.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developed hands-on robotics projects in school, including a weather monitoring system that tracked temperature and humidity, and a self-driving car capable of navigating autonomously.
+
+**Fun facts:**
+- 🇸🇪 Based in Sweden
+- 🚀 Interning at NASA
+- 🐍 Python is home base, but I'm always down to try something new
+- 📚 Big reader — always mid-book
+- ✅ Building a routine is what i do best
+- 📺 Always have a show going in the background
+
+
+Feel free to look around — more to come as I keep building.
